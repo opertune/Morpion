@@ -1,0 +1,11 @@
+C:\projet\Si4\Morpion\Morpion\bin\Debug\netcoreapp3.0\Morpion.exe
+C:\projet\Si4\Morpion\Morpion\bin\Debug\netcoreapp3.0\Morpion.deps.json
+C:\projet\Si4\Morpion\Morpion\bin\Debug\netcoreapp3.0\Morpion.runtimeconfig.json
+C:\projet\Si4\Morpion\Morpion\bin\Debug\netcoreapp3.0\Morpion.runtimeconfig.dev.json
+C:\projet\Si4\Morpion\Morpion\bin\Debug\netcoreapp3.0\Morpion.dll
+C:\projet\Si4\Morpion\Morpion\bin\Debug\netcoreapp3.0\Morpion.pdb
+C:\projet\Si4\Morpion\Morpion\obj\Debug\netcoreapp3.0\Morpion.csprojAssemblyReference.cache
+C:\projet\Si4\Morpion\Morpion\obj\Debug\netcoreapp3.0\Morpion.AssemblyInfoInputs.cache
+C:\projet\Si4\Morpion\Morpion\obj\Debug\netcoreapp3.0\Morpion.AssemblyInfo.cs
+C:\projet\Si4\Morpion\Morpion\obj\Debug\netcoreapp3.0\Morpion.dll
+C:\projet\Si4\Morpion\Morpion\obj\Debug\netcoreapp3.0\Morpion.pdb
